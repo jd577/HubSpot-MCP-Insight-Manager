@@ -1,0 +1,20 @@
+# Security: Protect API Keys
+.env
+
+# Python Environment
+__pycache__/
+*.py[oc]
+.venv/
+venv/
+env/
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+uv.lock
+
+# IDE/System Files
+.vscode/
+.idea/
+.DS_Store
